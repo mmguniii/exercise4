@@ -1,0 +1,10 @@
+C:\Users\user1\source\repos\Travel_ticket\Travel_Ticket\bin\Debug\Travel_Ticket.exe.config
+C:\Users\user1\source\repos\Travel_ticket\Travel_Ticket\bin\Debug\Travel_Ticket.exe
+C:\Users\user1\source\repos\Travel_ticket\Travel_Ticket\bin\Debug\Travel_Ticket.pdb
+C:\Users\user1\source\repos\Travel_ticket\Travel_Ticket\obj\Debug\Travel_Ticket.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Travel_ticket\Travel_Ticket\obj\Debug\Travel_Ticket.Form1.resources
+C:\Users\user1\source\repos\Travel_ticket\Travel_Ticket\obj\Debug\Travel_Ticket.Properties.Resources.resources
+C:\Users\user1\source\repos\Travel_ticket\Travel_Ticket\obj\Debug\Travel_Ticket.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\Travel_ticket\Travel_Ticket\obj\Debug\Travel_Ticket.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Travel_ticket\Travel_Ticket\obj\Debug\Travel_Ticket.exe
+C:\Users\user1\source\repos\Travel_ticket\Travel_Ticket\obj\Debug\Travel_Ticket.pdb
